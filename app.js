@@ -21,6 +21,9 @@ const countdown = () =>{
     document.querySelector('.minute').innerText = textMinute;
     document.querySelector('.second').innerText = textSecond;
 
+    //if(gap <1000){
+      //  window.location.href = '/path';
+   // }
 
 };
 
